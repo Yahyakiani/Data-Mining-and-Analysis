@@ -33,7 +33,7 @@ It will start performing data analysis on the gathered data.Analysis is done usi
 on which it performs analysis.
 
 Views:
-![alt text](./views/analysis.jpg)
+![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwif7fuTyLnmAhVmx4UKHXuXBn8QjRx6BAgBEAQ&url=https%3A%2F%2Fvenngage.com%2Fblog%2Fcompetitor-analysis-template%2F&psig=AOvVaw33Kbg2TnhUoZkjVaiFrY-_&ust=1576564916608105)
 
 Analysis Part:
 
