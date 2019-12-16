@@ -33,7 +33,7 @@ It will start performing data analysis on the gathered data.Analysis is done usi
 on which it performs analysis.
 
 Views:
-![alt text](views/analysis.jpg)
+![alt text](./views/analysis.jpg)
 
 Analysis Part:
 
