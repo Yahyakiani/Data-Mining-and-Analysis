@@ -15,13 +15,13 @@ Windows:
 -After that install all the requirements in the virtual enviroment by the following command
 -- pip install -r requirements.txt
 
--When all of the above procedure is complete, run the program from the following the command in main directory
+-When all of the above procedures are complete, run the program from the following the command in main directory
 Linux:
 --python3 run.py
 Windows:
 --python run.py
 
-There 2 options avaialble to execute the code.
+These 2 options available to execute the code.
 
 Option 1:
 
